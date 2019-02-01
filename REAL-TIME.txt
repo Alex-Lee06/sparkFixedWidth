@@ -1,0 +1,10 @@
+CITYNAME�POSTALZIPCODE�EMAILADDRESS�FIRSTNAME�LEADIPADDRESS�PHONENUMBERHOME�MAILADDRESS1�PROVINCESTATENAME�LASTNAME�LEADDATE�LEADURL
+SEVIERVILLE�37738�snoozntn@yahoo.com�GEORGIA�71.87.186.6��2712 KNOLL RUN CT�TN�STURM�2019-01-09 03:43:41�autoloanadvantage.com
+Harvey�60426�ammerclark@yahoo.com�Ammer�50.16.162.175��119 West 158 Th Place�IL�Clark�2019-01-09 10:59:49�www.insurancequoteadvantage.com
+SIERRA VISTA�85613�bueted@coax.net�ALICE�70.176.120.203��633 QUAIL PL�AZ�JONES�2019-01-09 04:03:04�autoloanadvantage.com
+JACKSONVILLE�80021�wecofl@comcast.net�LOUIS�192.187.241.83��12969 DEEP RIVER WAY�FL�SANTIONI�2019-01-09 04:04:36�autoloanadvantage.com
+Ladson�29456�ke4kmd@gmail.com�Mark�50.16.162.175��142 Sweet Alyssum Dr�SC�Caragher�2019-01-09 11:24:05�www.insurancequoteadvantage.com
+��margomeister@yahoo.com��192.94.245.106�����2019-01-09 10:12:25�wehaveautoloans.com
+MISSOULA�78218�beth.headley@gmail.com�BETH�72.3.167.172��439 UNIVERSITY AVE APT 2�MT�HEADLEY�2019-01-09 04:09:10�autoloanadvantage.com
+MISSOULA�78218�beth.headley@gmail.com�BETH�72.3.167.172��439 UNIVERSITY AVE APT 2�MT�HEADLEY�2019-01-09 04:09:10�autoloanadvantage.com
+SEVIERVILLE�37738�snooz8ntn@yahoo.com�GEORGIA�71.87.186.6��2712 KNOLL RUN CT�TN�STURM�2019-01-09 03:43:41�autoloanadvantage.com

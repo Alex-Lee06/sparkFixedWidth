@@ -1,0 +1,52 @@
+{
+	"version": 0.1,
+	"fileName": "s3a://si-data-monster-raw-data-dev-env/ig/bmi01AL.txt",
+	"delimiter": "",
+	"type": "fixed width",
+	"columnDefinition":  [{
+		"columnID": 0,
+		"columnName": "lemsMatchCode",
+		"length": 18,
+		"startPoint": 0,
+		"endPoint": 18
+
+		},{
+		"columnID": 1,
+		"columnName": "individualid",
+		"length": 12,
+		"startPoint": 18,
+		"endPoint": 30
+	},{
+		"columnID": 2,
+		"columnName": "familyid",
+		"length": 12,
+		"startPoint": 30,
+		"endPoint": 42
+	},{
+		"columnID": 3,
+		"columnName": "locationid",
+		"length": 12,
+		"startPoint": 43,
+		"endPoint": 54
+	},{
+		"columnID": 3,
+		"columnName": "firstName",
+		"length": 15,
+		"startPoint": 43,
+		"endPoint": 54
+	},{
+		"columnID": 3,
+		"columnName": "middleInitial",
+		"length": 1,
+		"startPoint": 43,
+		"endPoint": 54
+	},{
+		"columnID": 3,
+		"columnName": "lastName",
+		"length": 20,
+		"startPoint": 43,
+		"endPoint": 54
+	}]
+
+
+}

@@ -1,0 +1,9 @@
+{
+  "version": 0.1,
+  "fileName": "s3a://si-data-monster-raw-data-dev-env/ig/bmi01AL.txt",
+  "columnDefinition": [ {
+    "columnID": 0,
+    "columnName": "lemsmatchcode"}]
+
+
+}

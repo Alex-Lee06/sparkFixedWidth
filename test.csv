@@ -1,0 +1,5 @@
+sid,pid,regDate,ip,tSource,email,fname,lname,addr1,addr2,city,state,country,zip,birthDate,sex
+31000,31003,2018-11-15 00:00:00,203.215.162.250,imortgagedirect.com,,"Jenny","Jones","66165 Kent Rd","","Fluker","LA","","70436",, 
+31000,31003,2018-11-15 00:00:00,66.250.190.113,imortgagedirect.com,,"Elise","Southerland","219 Red Jade Dr.","","Upper Marlboro","MD","","20772",, 
+31000,31003,2018-11-15 00:00:00,97.100.236.95,imortgagedirect.com,,"Rod","Grey","5533 Jessamine Lane","","Orlando","FL","","32839",, 
+31000,31003,2018-11-15 00:00:00,75.129.206.21,imortgagedirect.com,,"Reza","Balakhani","502 North 5th St.","","Mount Vernon","IL","","62864",, 
