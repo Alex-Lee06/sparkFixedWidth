@@ -14,8 +14,8 @@ object importData {
 
 
     import spark.implicits._
-    val accessKeyId = "AKIAJSV6MXE6AAHMKZXQ"
-    val secretAccessKey = "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"
+    val accessKeyId = ""
+    val secretAccessKey = ""
     spark.sparkContext.hadoopConfiguration.set("fs.s3a.impl", "org.apache.hadoop.fs.s3native.NativeS3FileSystem")
     spark.sparkContext.hadoopConfiguration.set("fs.s3a.awsAccessKeyId", accessKeyId)
     spark.sparkContext.hadoopConfiguration.set("fs.s3a.awsSecretAccessKey", secretAccessKey)
