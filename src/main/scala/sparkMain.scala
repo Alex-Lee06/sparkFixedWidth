@@ -23,13 +23,13 @@ object sparkMain {
 //    ===============json reader====================
 
 ////    create dataframe for consumer data from s3 dev
-//    val consumer_file = "s3a://site-impact-dirty-data/eDemo/REAL-TIME.txt"
+//    val consumer_file = ""
 //    val consDf = importData.consumer_dataframe(consumer_file)
 //
 //print("============Consumer Data=================")
 //
 //    create data for bmi data from s3 staging
-    val bmiFile = "s3a://si-data-monster-raw-data-dev-env/ig/bmi01AL.txt"
+    val bmiFile = ""
     val bmiDf = bmiData.bmiDatarame(bmiFile)
 //
 //    bmiData.bmi_dataframe()
@@ -37,7 +37,7 @@ object sparkMain {
 //
 //
 ////    create dataframe for SI from s3 staging
-//    val si_file = "s3a://site-impact-dirty-data/Bulldogs/PID31101_20181011_390452_ALL_TaxDefense.csv"
+//    val si_file = ""
 //    siteImpactData.siteDataframe(si_file)
 
 //print("============SI data===========")
