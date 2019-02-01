@@ -39,8 +39,8 @@ object dupSimilarName {
 
 
 
-//    val accessKeyId = "AKIAINSRMP4V3NKSNFDQ"
-//    val secretAccessKey = "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"
+//    val accessKeyId = ""
+//    val secretAccessKey = ""
 //    spark.sparkContext.hadoopConfiguration.set("fs.s3a.impl", "org.apache.hadoop.fs.s3native.NativeS3FileSystem")
 //    spark.sparkContext.hadoopConfiguration.set("fs.s3a.awsAccessKeyId", accessKeyId)
 //    spark.sparkContext.hadoopConfiguration.set("fs.s3a.awsSecretAccessKey", secretAccessKey)
